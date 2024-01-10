@@ -1,0 +1,25 @@
+{
+  "name": "Scramblies",
+  "id": "55c04b4cc56a697bb0000048",
+  "slug": "scramblies",
+  "url": "https://www.codewars.com/kata/55c04b4cc56a697bb0000048",
+  "created_by": {
+    "username": "joh_pot",
+    "url": "https://www.codewars.com/users/joh_pot"
+  },
+  "created_at": "2015-08-04T05:22:22.567Z",
+  "approve": {
+    "rank": "Kyu5",
+    "approver": {
+      "username": "GiacomoSorbi",
+      "url": "https://www.codewars.com/users/GiacomoSorbi"
+    },
+    "approved_at": "2015-09-10T11:06:52.920Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Strings",
+    "Performance",
+    "Algorithms"
+  ]
+}

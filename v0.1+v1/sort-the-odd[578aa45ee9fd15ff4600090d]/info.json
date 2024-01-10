@@ -1,0 +1,25 @@
+{
+  "name": "Sort the odd",
+  "id": "578aa45ee9fd15ff4600090d",
+  "slug": "sort-the-odd",
+  "url": "https://www.codewars.com/kata/578aa45ee9fd15ff4600090d",
+  "created_by": {
+    "username": "fyvfyv",
+    "url": "https://www.codewars.com/users/fyvfyv"
+  },
+  "created_at": "2016-07-16T21:30:19.943Z",
+  "approve": {
+    "rank": "Kyu6",
+    "approver": {
+      "username": "jhoffner",
+      "url": "https://www.codewars.com/users/jhoffner"
+    },
+    "approved_at": "2016-09-06T01:35:42.171Z"
+  },
+  "category": "reference",
+  "tags": [
+    "Fundamentals",
+    "Arrays",
+    "Sorting"
+  ]
+}

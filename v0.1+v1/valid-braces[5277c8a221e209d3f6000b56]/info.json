@@ -1,0 +1,23 @@
+{
+  "name": "Valid Braces",
+  "id": "5277c8a221e209d3f6000b56",
+  "slug": "valid-braces",
+  "url": "https://www.codewars.com/kata/5277c8a221e209d3f6000b56",
+  "created_by": {
+    "username": "xDranik",
+    "url": "https://www.codewars.com/users/xDranik"
+  },
+  "created_at": "2013-11-05T00:07:31.399Z",
+  "approve": {
+    "rank": "Kyu6",
+    "approver": {
+      "username": "xDranik",
+      "url": "https://www.codewars.com/users/xDranik"
+    },
+    "approved_at": "2013-12-20T14:53:06.570Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Algorithms"
+  ]
+}
