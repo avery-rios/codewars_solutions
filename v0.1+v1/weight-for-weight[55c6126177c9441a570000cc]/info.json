@@ -1,0 +1,23 @@
+{
+  "name": "Weight for weight",
+  "id": "55c6126177c9441a570000cc",
+  "slug": "weight-for-weight",
+  "url": "https://www.codewars.com/kata/55c6126177c9441a570000cc",
+  "created_by": {
+    "username": "g964",
+    "url": "https://www.codewars.com/users/g964"
+  },
+  "created_at": "2015-08-08T14:33:36.178Z",
+  "approve": {
+    "rank": "Kyu5",
+    "approver": {
+      "username": "jhoffner",
+      "url": "https://www.codewars.com/users/jhoffner"
+    },
+    "approved_at": "2015-08-11T15:57:41.378Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Algorithms"
+  ]
+}

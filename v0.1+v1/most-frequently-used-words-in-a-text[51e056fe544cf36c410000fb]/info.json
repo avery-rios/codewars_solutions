@@ -1,0 +1,26 @@
+{
+  "name": "Most frequently used words in a text",
+  "id": "51e056fe544cf36c410000fb",
+  "slug": "most-frequently-used-words-in-a-text",
+  "url": "https://www.codewars.com/kata/51e056fe544cf36c410000fb",
+  "created_by": {
+    "username": "markprzepiora",
+    "url": "https://www.codewars.com/users/markprzepiora"
+  },
+  "created_at": "2013-07-26T22:42:11.102Z",
+  "approve": {
+    "rank": "Kyu4",
+    "approver": {
+      "username": "jhoffner",
+      "url": "https://www.codewars.com/users/jhoffner"
+    },
+    "approved_at": "2013-12-19T18:25:33.862Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Strings",
+    "Filtering",
+    "Algorithms",
+    "Regular Expressions"
+  ]
+}

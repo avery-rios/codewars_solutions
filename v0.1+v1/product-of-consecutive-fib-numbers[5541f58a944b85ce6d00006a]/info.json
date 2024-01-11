@@ -1,0 +1,24 @@
+{
+  "name": "Product of consecutive Fib numbers",
+  "id": "5541f58a944b85ce6d00006a",
+  "slug": "product-of-consecutive-fib-numbers",
+  "url": "https://www.codewars.com/kata/5541f58a944b85ce6d00006a",
+  "created_by": {
+    "username": "g964",
+    "url": "https://www.codewars.com/users/g964"
+  },
+  "created_at": "2015-04-30T09:29:08.484Z",
+  "approve": {
+    "rank": "Kyu5",
+    "approver": {
+      "username": "jhoffner",
+      "url": "https://www.codewars.com/users/jhoffner"
+    },
+    "approved_at": "2015-05-08T18:35:36.215Z"
+  },
+  "category": "reference",
+  "tags": [
+    "Algorithms",
+    "Mathematics"
+  ]
+}

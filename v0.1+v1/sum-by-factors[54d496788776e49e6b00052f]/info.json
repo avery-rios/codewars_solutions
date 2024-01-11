@@ -1,0 +1,25 @@
+{
+  "name": "Sum by Factors",
+  "id": "54d496788776e49e6b00052f",
+  "slug": "sum-by-factors",
+  "url": "https://www.codewars.com/kata/54d496788776e49e6b00052f",
+  "created_by": {
+    "username": "g964",
+    "url": "https://www.codewars.com/users/g964"
+  },
+  "created_at": "2015-02-06T14:31:14.771Z",
+  "approve": {
+    "rank": "Kyu4",
+    "approver": {
+      "username": "jhoffner",
+      "url": "https://www.codewars.com/users/jhoffner"
+    },
+    "approved_at": "2015-06-05T18:58:35.793Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Arrays",
+    "Algorithms",
+    "Mathematics"
+  ]
+}
