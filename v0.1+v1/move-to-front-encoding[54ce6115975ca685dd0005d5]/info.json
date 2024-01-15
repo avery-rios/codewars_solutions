@@ -1,0 +1,23 @@
+{
+  "name": "Move-To-Front Encoding",
+  "id": "54ce6115975ca685dd0005d5",
+  "slug": "move-to-front-encoding",
+  "url": "https://www.codewars.com/kata/54ce6115975ca685dd0005d5",
+  "created_by": {
+    "username": "muesli4",
+    "url": "https://www.codewars.com/users/muesli4"
+  },
+  "created_at": "2015-02-01T17:31:19.146Z",
+  "approve": {
+    "rank": "Kyu5",
+    "approver": {
+      "username": "kazk",
+      "url": "https://www.codewars.com/users/kazk"
+    },
+    "approved_at": "2017-03-13T00:53:28.549Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Algorithms"
+  ]
+}
