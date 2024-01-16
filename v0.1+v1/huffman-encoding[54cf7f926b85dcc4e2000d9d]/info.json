@@ -1,0 +1,23 @@
+{
+  "name": "Huffman Encoding",
+  "id": "54cf7f926b85dcc4e2000d9d",
+  "slug": "huffman-encoding",
+  "url": "https://www.codewars.com/kata/54cf7f926b85dcc4e2000d9d",
+  "created_by": {
+    "username": "muesli4",
+    "url": "https://www.codewars.com/users/muesli4"
+  },
+  "created_at": "2015-02-02T16:42:04.500Z",
+  "approve": {
+    "rank": "Kyu3",
+    "approver": {
+      "username": "JohanWiltink",
+      "url": "https://www.codewars.com/users/JohanWiltink"
+    },
+    "approved_at": "2017-06-21T01:28:50.821Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Algorithms"
+  ]
+}
