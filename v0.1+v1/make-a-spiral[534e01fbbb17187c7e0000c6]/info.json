@@ -1,0 +1,25 @@
+{
+  "name": "Make a spiral",
+  "id": "534e01fbbb17187c7e0000c6",
+  "slug": "make-a-spiral",
+  "url": "https://www.codewars.com/kata/534e01fbbb17187c7e0000c6",
+  "created_by": {
+    "username": "Bugari",
+    "url": "https://www.codewars.com/users/Bugari"
+  },
+  "created_at": "2014-04-16T09:19:39.444Z",
+  "approve": {
+    "rank": "Kyu3",
+    "approver": {
+      "username": "jhoffner",
+      "url": "https://www.codewars.com/users/jhoffner"
+    },
+    "approved_at": "2014-06-11T19:56:13.812Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Algorithms",
+    "Arrays",
+    "Logic"
+  ]
+}
