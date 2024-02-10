@@ -1,0 +1,26 @@
+{
+  "name": "Alphabetic Anagrams",
+  "id": "53e57dada0cb0400ba000688",
+  "slug": "alphabetic-anagrams",
+  "url": "https://www.codewars.com/kata/53e57dada0cb0400ba000688",
+  "created_by": {
+    "username": "Azuaron",
+    "url": "https://www.codewars.com/users/Azuaron"
+  },
+  "created_at": "2014-08-09T12:23:47.611Z",
+  "approve": {
+    "rank": "Kyu3",
+    "approver": {
+      "username": "jhoffner",
+      "url": "https://www.codewars.com/users/jhoffner"
+    },
+    "approved_at": "2014-11-06T15:38:02.224Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Mathematics",
+    "Logic",
+    "Strings",
+    "Algorithms"
+  ]
+}
