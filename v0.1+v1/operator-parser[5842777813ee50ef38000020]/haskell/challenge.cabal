@@ -1,0 +1,25 @@
+cabal-version: 3.0
+name:          challenge
+version:       0.1.0.0
+build-type:    Simple
+
+library
+    exposed-modules:  OperatorParser
+    hs-source-dirs:   src
+    default-language: Haskell2010
+    ghc-options:      -Wall
+    build-depends:
+        base >=4.17.2 && <4.18,
+        vector >=0.13 && <0.14
+
+test-suite sample
+    type:             exitcode-stdio-1.0
+    main-is:          Main.hs
+    hs-source-dirs:   test/sample
+    other-modules:    OperatorParserSpec
+    default-language: Haskell2010
+    ghc-options:      -Wall
+    build-depends:
+        base >=4.17.2 && <4.18,
+        hspec >=2.11 && <2.12,
+        challenge

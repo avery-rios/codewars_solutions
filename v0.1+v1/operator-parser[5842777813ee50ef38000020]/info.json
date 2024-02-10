@@ -1,0 +1,26 @@
+{
+  "name": "Operator Parser",
+  "id": "5842777813ee50ef38000020",
+  "slug": "operator-parser",
+  "url": "https://www.codewars.com/kata/5842777813ee50ef38000020",
+  "created_by": {
+    "username": "matthewmoppett",
+    "url": "https://www.codewars.com/users/matthewmoppett"
+  },
+  "created_at": "2016-12-03T07:44:04.309Z",
+  "approve": {
+    "rank": "Kyu2",
+    "approver": {
+      "username": "ice1000",
+      "url": "https://www.codewars.com/users/ice1000"
+    },
+    "approved_at": "2017-07-23T15:59:41.353Z"
+  },
+  "category": "games",
+  "tags": [
+    "Parsing",
+    "Data Structures",
+    "Compilers",
+    "Puzzles"
+  ]
+}
