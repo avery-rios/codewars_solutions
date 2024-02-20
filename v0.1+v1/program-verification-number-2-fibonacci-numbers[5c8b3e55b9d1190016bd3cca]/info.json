@@ -1,0 +1,24 @@
+{
+  "name": "Program Verification #2: Fibonacci numbers",
+  "id": "5c8b3e55b9d1190016bd3cca",
+  "slug": "program-verification-number-2-fibonacci-numbers",
+  "url": "https://www.codewars.com/kata/5c8b3e55b9d1190016bd3cca",
+  "created_by": {
+    "username": "monadius",
+    "url": "https://www.codewars.com/users/monadius"
+  },
+  "created_at": "2019-03-15T06:00:46.913Z",
+  "approve": {
+    "rank": "Kyu6",
+    "approver": {
+      "username": "donaldsebleung",
+      "url": "https://www.codewars.com/users/donaldsebleung"
+    },
+    "approved_at": "2020-02-04T04:23:26.031Z"
+  },
+  "category": "reference",
+  "tags": [
+    "Theorem Proving",
+    "Fundamentals"
+  ]
+}

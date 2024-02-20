@@ -1,0 +1,17 @@
+{
+  "name": "Snail",
+  "id": "521c2db8ddc89b9b7a0000c1",
+  "slug": "snail",
+  "url": "https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1",
+  "created_by": {
+    "username": "stevenbarragan",
+    "url": "https://www.codewars.com/users/stevenbarragan"
+  },
+  "created_at": "2013-08-28T04:56:02.580Z",
+  "approve": null,
+  "category": "algorithms",
+  "tags": [
+    "Arrays",
+    "Algorithms"
+  ]
+}

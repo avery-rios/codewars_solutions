@@ -1,0 +1,24 @@
+{
+  "name": "Program Verification #1: The sum of an arithmetic progression",
+  "id": "5c8b332197eb04000887fd63",
+  "slug": "program-verification-number-1-the-sum-of-an-arithmetic-progression",
+  "url": "https://www.codewars.com/kata/5c8b332197eb04000887fd63",
+  "created_by": {
+    "username": "monadius",
+    "url": "https://www.codewars.com/users/monadius"
+  },
+  "created_at": "2019-03-15T05:32:15.568Z",
+  "approve": {
+    "rank": "Kyu6",
+    "approver": {
+      "username": "donaldsebleung",
+      "url": "https://www.codewars.com/users/donaldsebleung"
+    },
+    "approved_at": "2020-02-04T04:21:48.025Z"
+  },
+  "category": "reference",
+  "tags": [
+    "Theorem Proving",
+    "Fundamentals"
+  ]
+}

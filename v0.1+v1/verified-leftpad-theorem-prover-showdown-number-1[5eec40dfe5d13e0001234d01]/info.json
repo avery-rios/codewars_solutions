@@ -1,0 +1,24 @@
+{
+  "name": "Verified leftpad (Theorem prover showdown #1)",
+  "id": "5eec40dfe5d13e0001234d01",
+  "slug": "verified-leftpad-theorem-prover-showdown-number-1",
+  "url": "https://www.codewars.com/kata/5eec40dfe5d13e0001234d01",
+  "created_by": {
+    "username": "dramforever",
+    "url": "https://www.codewars.com/users/dramforever"
+  },
+  "created_at": "2020-06-19T04:36:47.796Z",
+  "approve": {
+    "rank": "Kyu6",
+    "approver": {
+      "username": "donaldsebleung",
+      "url": "https://www.codewars.com/users/donaldsebleung"
+    },
+    "approved_at": "2020-10-29T03:46:03.136Z"
+  },
+  "category": "reference",
+  "tags": [
+    "Theorem Proving",
+    "Fundamentals"
+  ]
+}
