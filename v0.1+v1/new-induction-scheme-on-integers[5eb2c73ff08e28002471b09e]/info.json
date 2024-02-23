@@ -1,0 +1,23 @@
+{
+  "name": "New induction scheme on integers",
+  "id": "5eb2c73ff08e28002471b09e",
+  "slug": "new-induction-scheme-on-integers",
+  "url": "https://www.codewars.com/kata/5eb2c73ff08e28002471b09e",
+  "created_by": {
+    "username": "kckennylau",
+    "url": "https://www.codewars.com/users/kckennylau"
+  },
+  "created_at": "2020-05-06T14:18:42.743Z",
+  "approve": {
+    "rank": "Kyu6",
+    "approver": {
+      "username": "donaldsebleung",
+      "url": "https://www.codewars.com/users/donaldsebleung"
+    },
+    "approved_at": "2020-05-20T05:32:39.315Z"
+  },
+  "category": "reference",
+  "tags": [
+    "Fundamentals"
+  ]
+}

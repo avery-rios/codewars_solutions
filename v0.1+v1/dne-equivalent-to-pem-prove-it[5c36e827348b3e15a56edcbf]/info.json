@@ -1,0 +1,24 @@
+{
+  "name": "DNE equivalent to PEM? Prove It!",
+  "id": "5c36e827348b3e15a56edcbf",
+  "slug": "dne-equivalent-to-pem-prove-it",
+  "url": "https://www.codewars.com/kata/5c36e827348b3e15a56edcbf",
+  "created_by": {
+    "username": "yuxuanchiadm",
+    "url": "https://www.codewars.com/users/yuxuanchiadm"
+  },
+  "created_at": "2019-01-10T18:00:12.704Z",
+  "approve": {
+    "rank": "Kyu5",
+    "approver": {
+      "username": "donaldsebleung",
+      "url": "https://www.codewars.com/users/donaldsebleung"
+    },
+    "approved_at": "2020-02-13T04:05:07.986Z"
+  },
+  "category": "reference",
+  "tags": [
+    "Mathematics",
+    "Fundamentals"
+  ]
+}
