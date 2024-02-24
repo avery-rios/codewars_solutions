@@ -1,0 +1,24 @@
+{
+  "name": "The Millionth Fibonacci Kata",
+  "id": "53d40c1e2f13e331fc000c26",
+  "slug": "the-millionth-fibonacci-kata",
+  "url": "https://www.codewars.com/kata/53d40c1e2f13e331fc000c26",
+  "created_by": {
+    "username": "xcthulhu",
+    "url": "https://www.codewars.com/users/xcthulhu"
+  },
+  "created_at": "2014-07-26T20:15:56.818Z",
+  "approve": {
+    "rank": "Kyu3",
+    "approver": {
+      "username": "xcthulhu",
+      "url": "https://www.codewars.com/users/xcthulhu"
+    },
+    "approved_at": "2014-09-04T01:45:52.711Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Mathematics",
+    "Algorithms"
+  ]
+}

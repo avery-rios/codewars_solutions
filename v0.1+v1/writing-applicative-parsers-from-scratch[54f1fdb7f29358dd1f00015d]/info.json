@@ -1,0 +1,27 @@
+{
+  "name": "Writing applicative parsers from scratch",
+  "id": "54f1fdb7f29358dd1f00015d",
+  "slug": "writing-applicative-parsers-from-scratch",
+  "url": "https://www.codewars.com/kata/54f1fdb7f29358dd1f00015d",
+  "created_by": {
+    "username": "muesli4",
+    "url": "https://www.codewars.com/users/muesli4"
+  },
+  "created_at": "2015-02-28T18:01:38.614Z",
+  "approve": {
+    "rank": "Kyu2",
+    "approver": {
+      "username": "ice1000",
+      "url": "https://www.codewars.com/users/ice1000"
+    },
+    "approved_at": "2017-07-15T14:18:13.707Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Data Structures",
+    "Parsing",
+    "Strings",
+    "Algorithms",
+    "Tutorials"
+  ]
+}
