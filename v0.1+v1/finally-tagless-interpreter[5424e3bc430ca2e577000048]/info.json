@@ -1,0 +1,24 @@
+{
+  "name": "Finally tagless interpreter",
+  "id": "5424e3bc430ca2e577000048",
+  "slug": "finally-tagless-interpreter",
+  "url": "https://www.codewars.com/kata/5424e3bc430ca2e577000048",
+  "created_by": {
+    "username": "tel",
+    "url": "https://www.codewars.com/users/tel"
+  },
+  "created_at": "2014-09-26T03:55:40.189Z",
+  "approve": {
+    "rank": "Kyu2",
+    "approver": {
+      "username": "xcthulhu",
+      "url": "https://www.codewars.com/users/xcthulhu"
+    },
+    "approved_at": "2014-10-16T15:20:56.702Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Interpreters",
+    "Algorithms"
+  ]
+}
