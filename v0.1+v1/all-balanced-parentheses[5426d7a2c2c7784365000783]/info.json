@@ -1,0 +1,23 @@
+{
+  "name": "All Balanced Parentheses",
+  "id": "5426d7a2c2c7784365000783",
+  "slug": "all-balanced-parentheses",
+  "url": "https://www.codewars.com/kata/5426d7a2c2c7784365000783",
+  "created_by": {
+    "username": "xcthulhu",
+    "url": "https://www.codewars.com/users/xcthulhu"
+  },
+  "created_at": "2014-09-27T17:52:37.858Z",
+  "approve": {
+    "rank": "Kyu4",
+    "approver": {
+      "username": "xcthulhu",
+      "url": "https://www.codewars.com/users/xcthulhu"
+    },
+    "approved_at": "2014-11-10T19:58:33.038Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Algorithms"
+  ]
+}
