@@ -1,0 +1,24 @@
+{
+  "name": "Rewriting on any binary equivalence relation",
+  "id": "5cdce6056d6a44002999a062",
+  "slug": "rewriting-on-any-binary-equivalence-relation",
+  "url": "https://www.codewars.com/kata/5cdce6056d6a44002999a062",
+  "created_by": {
+    "username": "solitude",
+    "url": "https://www.codewars.com/users/solitude"
+  },
+  "created_at": "2019-05-16T04:32:21.896Z",
+  "approve": {
+    "rank": "Kyu4",
+    "approver": {
+      "username": "monadius",
+      "url": "https://www.codewars.com/users/monadius"
+    },
+    "approved_at": "2020-02-07T02:25:21.111Z"
+  },
+  "category": "reference",
+  "tags": [
+    "Theorem Proving",
+    "Fundamentals"
+  ]
+}

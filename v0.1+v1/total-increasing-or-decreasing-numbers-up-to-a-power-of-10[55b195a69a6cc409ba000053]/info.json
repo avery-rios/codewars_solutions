@@ -1,0 +1,25 @@
+{
+  "name": "Total increasing or decreasing numbers up to a power of 10",
+  "id": "55b195a69a6cc409ba000053",
+  "slug": "total-increasing-or-decreasing-numbers-up-to-a-power-of-10",
+  "url": "https://www.codewars.com/kata/55b195a69a6cc409ba000053",
+  "created_by": {
+    "username": "GiacomoSorbi",
+    "url": "https://www.codewars.com/users/GiacomoSorbi"
+  },
+  "created_at": "2015-07-24T11:00:22.130Z",
+  "approve": {
+    "rank": "Kyu4",
+    "approver": {
+      "username": "NaMe613",
+      "url": "https://www.codewars.com/users/NaMe613"
+    },
+    "approved_at": "2016-02-24T06:02:48.580Z"
+  },
+  "category": "games",
+  "tags": [
+    "Number Theory",
+    "Combinatorics",
+    "Puzzles"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Regular expression parser",
+  "id": "5470c635304c127cad000f0d",
+  "slug": "regular-expression-parser",
+  "url": "https://www.codewars.com/kata/5470c635304c127cad000f0d",
+  "created_by": {
+    "username": "phaul",
+    "url": "https://www.codewars.com/users/phaul"
+  },
+  "created_at": "2014-11-23T14:03:06.276Z",
+  "approve": {
+    "rank": "Kyu2",
+    "approver": {
+      "username": "ice1000",
+      "url": "https://www.codewars.com/users/ice1000"
+    },
+    "approved_at": "2017-07-16T10:33:51.474Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Parsing",
+    "Functional Programming",
+    "Algorithms"
+  ]
+}
