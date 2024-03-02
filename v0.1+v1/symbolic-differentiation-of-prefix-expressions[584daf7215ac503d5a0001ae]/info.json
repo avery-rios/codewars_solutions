@@ -1,0 +1,23 @@
+{
+  "name": "Symbolic differentiation of prefix expressions",
+  "id": "584daf7215ac503d5a0001ae",
+  "slug": "symbolic-differentiation-of-prefix-expressions",
+  "url": "https://www.codewars.com/kata/584daf7215ac503d5a0001ae",
+  "created_by": {
+    "username": "user4850992",
+    "url": "https://www.codewars.com/users/user4850992"
+  },
+  "created_at": "2016-12-12T14:46:05.500Z",
+  "approve": {
+    "rank": "Kyu2",
+    "approver": {
+      "username": "Blind4Basics",
+      "url": "https://www.codewars.com/users/Blind4Basics"
+    },
+    "approved_at": "2017-12-12T07:17:37.641Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Algorithms"
+  ]
+}
