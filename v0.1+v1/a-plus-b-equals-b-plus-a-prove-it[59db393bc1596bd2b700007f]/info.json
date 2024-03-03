@@ -1,0 +1,24 @@
+{
+  "name": "A+B=B+A? Prove it!",
+  "id": "59db393bc1596bd2b700007f",
+  "slug": "a-plus-b-equals-b-plus-a-prove-it",
+  "url": "https://www.codewars.com/kata/59db393bc1596bd2b700007f",
+  "created_by": {
+    "username": "AJFarmar",
+    "url": "https://www.codewars.com/users/AJFarmar"
+  },
+  "created_at": "2017-10-09T16:20:35.723Z",
+  "approve": {
+    "rank": "Kyu1",
+    "approver": {
+      "username": "Voile",
+      "url": "https://www.codewars.com/users/Voile"
+    },
+    "approved_at": "2017-10-11T08:20:44.937Z"
+  },
+  "category": "reference",
+  "tags": [
+    "Mathematics",
+    "Fundamentals"
+  ]
+}
