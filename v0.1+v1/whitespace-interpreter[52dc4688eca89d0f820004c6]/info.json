@@ -1,0 +1,25 @@
+{
+  "name": "Whitespace Interpreter",
+  "id": "52dc4688eca89d0f820004c6",
+  "slug": "whitespace-interpreter",
+  "url": "https://www.codewars.com/kata/52dc4688eca89d0f820004c6",
+  "created_by": {
+    "username": "jacobb",
+    "url": "https://www.codewars.com/users/jacobb"
+  },
+  "created_at": "2014-01-27T00:29:17.202Z",
+  "approve": {
+    "rank": "Kyu2",
+    "approver": {
+      "username": "MMMAAANNN",
+      "url": "https://www.codewars.com/users/MMMAAANNN"
+    },
+    "approved_at": "2015-08-22T09:16:42.931Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Esoteric Languages",
+    "Interpreters",
+    "Algorithms"
+  ]
+}
