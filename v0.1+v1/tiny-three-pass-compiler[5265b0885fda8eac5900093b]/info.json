@@ -1,0 +1,17 @@
+{
+  "name": "Tiny Three-Pass Compiler",
+  "id": "5265b0885fda8eac5900093b",
+  "slug": "tiny-three-pass-compiler",
+  "url": "https://www.codewars.com/kata/5265b0885fda8eac5900093b",
+  "created_by": {
+    "username": "nklein",
+    "url": "https://www.codewars.com/users/nklein"
+  },
+  "created_at": "2013-10-22T00:00:11.356Z",
+  "approve": null,
+  "category": "algorithms",
+  "tags": [
+    "Compilers",
+    "Algorithms"
+  ]
+}
