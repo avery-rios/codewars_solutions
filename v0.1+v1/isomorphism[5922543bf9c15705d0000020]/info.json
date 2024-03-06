@@ -1,0 +1,24 @@
+{
+  "name": "Isomorphism",
+  "id": "5922543bf9c15705d0000020",
+  "slug": "isomorphism",
+  "url": "https://www.codewars.com/kata/5922543bf9c15705d0000020",
+  "created_by": {
+    "username": "lolisa",
+    "url": "https://www.codewars.com/users/lolisa"
+  },
+  "created_at": "2017-05-22T04:39:21.249Z",
+  "approve": {
+    "rank": "Kyu3",
+    "approver": {
+      "username": "Voile",
+      "url": "https://www.codewars.com/users/Voile"
+    },
+    "approved_at": "2017-06-03T12:42:47.072Z"
+  },
+  "category": "reference",
+  "tags": [
+    "Functional Programming",
+    "Fundamentals"
+  ]
+}
