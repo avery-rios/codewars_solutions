@@ -1,0 +1,23 @@
+{
+  "name": "Peano and Church",
+  "id": "5922530af9c157651d0000aa",
+  "slug": "peano-and-church",
+  "url": "https://www.codewars.com/kata/5922530af9c157651d0000aa",
+  "created_by": {
+    "username": "lolisa",
+    "url": "https://www.codewars.com/users/lolisa"
+  },
+  "created_at": "2017-06-19T04:16:13.036Z",
+  "approve": {
+    "rank": "Kyu1",
+    "approver": {
+      "username": "ice1000",
+      "url": "https://www.codewars.com/users/ice1000"
+    },
+    "approved_at": "2017-08-06T07:27:53.961Z"
+  },
+  "category": "reference",
+  "tags": [
+    "Fundamentals"
+  ]
+}

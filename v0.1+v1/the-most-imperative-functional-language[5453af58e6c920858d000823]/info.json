@@ -1,0 +1,23 @@
+{
+  "name": "The most imperative functional language?",
+  "id": "5453af58e6c920858d000823",
+  "slug": "the-most-imperative-functional-language",
+  "url": "https://www.codewars.com/kata/5453af58e6c920858d000823",
+  "created_by": {
+    "username": "bkaes",
+    "url": "https://www.codewars.com/users/bkaes"
+  },
+  "created_at": "2014-11-06T10:45:41.304Z",
+  "approve": {
+    "rank": "Kyu2",
+    "approver": {
+      "username": "myjinxin2015",
+      "url": "https://www.codewars.com/users/myjinxin2015"
+    },
+    "approved_at": "2016-03-24T06:36:23.996Z"
+  },
+  "category": "games",
+  "tags": [
+    "Puzzles"
+  ]
+}
