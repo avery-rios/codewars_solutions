@@ -1,0 +1,24 @@
+{
+  "name": "Finding the maximal program",
+  "id": "5cdcdefdf00ea9001ca2e8fa",
+  "slug": "finding-the-maximal-program",
+  "url": "https://www.codewars.com/kata/5cdcdefdf00ea9001ca2e8fa",
+  "created_by": {
+    "username": "donaldsebleung",
+    "url": "https://www.codewars.com/users/donaldsebleung"
+  },
+  "created_at": "2019-05-16T04:15:05.795Z",
+  "approve": {
+    "rank": "Kyu5",
+    "approver": {
+      "username": "monadius",
+      "url": "https://www.codewars.com/users/monadius"
+    },
+    "approved_at": "2020-02-05T08:08:12.574Z"
+  },
+  "category": "games",
+  "tags": [
+    "Theorem Proving",
+    "Puzzles"
+  ]
+}

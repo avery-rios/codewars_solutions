@@ -1,0 +1,23 @@
+{
+  "name": "Power tower modulo m",
+  "id": "5a08b22b32b8b96f4700001c",
+  "slug": "power-tower-modulo-m",
+  "url": "https://www.codewars.com/kata/5a08b22b32b8b96f4700001c",
+  "created_by": {
+    "username": "ecolban",
+    "url": "https://www.codewars.com/users/ecolban"
+  },
+  "created_at": "2017-11-12T23:33:55.928Z",
+  "approve": {
+    "rank": "Kyu2",
+    "approver": {
+      "username": "BabyPowder",
+      "url": "https://www.codewars.com/users/BabyPowder"
+    },
+    "approved_at": "2018-06-09T15:43:47.243Z"
+  },
+  "category": "refactoring",
+  "tags": [
+    "Refactoring"
+  ]
+}
