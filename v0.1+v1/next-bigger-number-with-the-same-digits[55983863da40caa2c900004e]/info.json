@@ -1,0 +1,24 @@
+{
+  "name": "Next bigger number with the same digits",
+  "id": "55983863da40caa2c900004e",
+  "slug": "next-bigger-number-with-the-same-digits",
+  "url": "https://www.codewars.com/kata/55983863da40caa2c900004e",
+  "created_by": {
+    "username": "GiacomoSorbi",
+    "url": "https://www.codewars.com/users/GiacomoSorbi"
+  },
+  "created_at": "2015-07-04T21:21:38.051Z",
+  "approve": {
+    "rank": "Kyu4",
+    "approver": {
+      "username": "jhoffner",
+      "url": "https://www.codewars.com/users/jhoffner"
+    },
+    "approved_at": "2015-09-28T15:32:02.898Z"
+  },
+  "category": "refactoring",
+  "tags": [
+    "Strings",
+    "Refactoring"
+  ]
+}
