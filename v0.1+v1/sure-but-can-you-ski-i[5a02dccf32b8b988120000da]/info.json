@@ -1,0 +1,23 @@
+{
+  "name": "Sure, but can you SKI? (I)",
+  "id": "5a02dccf32b8b988120000da",
+  "slug": "sure-but-can-you-ski-i",
+  "url": "https://www.codewars.com/kata/5a02dccf32b8b988120000da",
+  "created_by": {
+    "username": "Voile",
+    "url": "https://www.codewars.com/users/Voile"
+  },
+  "created_at": "2017-11-09T05:19:50.505Z",
+  "approve": {
+    "rank": "Kyu1",
+    "approver": {
+      "username": "ZED.CWT",
+      "url": "https://www.codewars.com/users/ZED.CWT"
+    },
+    "approved_at": "2017-11-18T16:35:20.981Z"
+  },
+  "category": "reference",
+  "tags": [
+    "Fundamentals"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Explosive Sum",
+  "id": "52ec24228a515e620b0005ef",
+  "slug": "explosive-sum",
+  "url": "https://www.codewars.com/kata/52ec24228a515e620b0005ef",
+  "created_by": {
+    "username": "surtich",
+    "url": "https://www.codewars.com/users/surtich"
+  },
+  "created_at": "2014-01-31T23:26:34.749Z",
+  "approve": {
+    "rank": "Kyu4",
+    "approver": {
+      "username": "xcthulhu",
+      "url": "https://www.codewars.com/users/xcthulhu"
+    },
+    "approved_at": "2014-09-12T14:30:54.265Z"
+  },
+  "category": "reference",
+  "tags": [
+    "Algorithms",
+    "Mathematics",
+    "Fundamentals"
+  ]
+}

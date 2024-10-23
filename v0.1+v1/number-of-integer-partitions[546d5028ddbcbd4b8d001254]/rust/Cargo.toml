@@ -1,0 +1,9 @@
+[package]
+name = "number-of-integer-partitions"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.66"
+
+[features]
+local = []
+default = ["local"]

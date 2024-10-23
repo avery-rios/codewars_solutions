@@ -1,0 +1,24 @@
+{
+  "name": "The position of a digital string in a infinite digital string",
+  "id": "582c1092306063791c000c00",
+  "slug": "the-position-of-a-digital-string-in-a-infinite-digital-string",
+  "url": "https://www.codewars.com/kata/582c1092306063791c000c00",
+  "created_by": {
+    "username": "myjinxin2015",
+    "url": "https://www.codewars.com/users/myjinxin2015"
+  },
+  "created_at": "2016-11-18T12:55:10.081Z",
+  "approve": {
+    "rank": "Kyu2",
+    "approver": {
+      "username": "Voile",
+      "url": "https://www.codewars.com/users/Voile"
+    },
+    "approved_at": "2017-07-23T17:19:35.688Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Algorithms",
+    "Puzzles"
+  ]
+}
