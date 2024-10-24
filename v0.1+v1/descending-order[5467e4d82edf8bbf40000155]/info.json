@@ -1,0 +1,23 @@
+{
+  "name": "Descending Order",
+  "id": "5467e4d82edf8bbf40000155",
+  "slug": "descending-order",
+  "url": "https://www.codewars.com/kata/5467e4d82edf8bbf40000155",
+  "created_by": {
+    "username": "TastyOs",
+    "url": "https://www.codewars.com/users/TastyOs"
+  },
+  "created_at": "2014-11-15T23:42:16.753Z",
+  "approve": {
+    "rank": "Kyu7",
+    "approver": {
+      "username": "jhoffner",
+      "url": "https://www.codewars.com/users/jhoffner"
+    },
+    "approved_at": "2014-12-08T16:30:06.868Z"
+  },
+  "category": "reference",
+  "tags": [
+    "Fundamentals"
+  ]
+}

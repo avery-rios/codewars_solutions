@@ -1,0 +1,24 @@
+{
+  "name": "Square Every Digit",
+  "id": "546e2562b03326a88e000020",
+  "slug": "square-every-digit",
+  "url": "https://www.codewars.com/kata/546e2562b03326a88e000020",
+  "created_by": {
+    "username": "MysteriousMagenta",
+    "url": "https://www.codewars.com/users/MysteriousMagenta"
+  },
+  "created_at": "2014-11-20T17:31:14.986Z",
+  "approve": {
+    "rank": "Kyu7",
+    "approver": {
+      "username": "jhoffner",
+      "url": "https://www.codewars.com/users/jhoffner"
+    },
+    "approved_at": "2014-11-30T01:42:19.965Z"
+  },
+  "category": "reference",
+  "tags": [
+    "Mathematics",
+    "Fundamentals"
+  ]
+}

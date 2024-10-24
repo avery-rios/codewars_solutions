@@ -1,0 +1,25 @@
+{
+  "name": "Duplicate Encoder",
+  "id": "54b42f9314d9229fd6000d9c",
+  "slug": "duplicate-encoder",
+  "url": "https://www.codewars.com/kata/54b42f9314d9229fd6000d9c",
+  "created_by": {
+    "username": "obnounce",
+    "url": "https://www.codewars.com/users/obnounce"
+  },
+  "created_at": "2015-01-12T20:44:23.917Z",
+  "approve": {
+    "rank": "Kyu6",
+    "approver": {
+      "username": "Azuaron",
+      "url": "https://www.codewars.com/users/Azuaron"
+    },
+    "approved_at": "2015-04-08T13:11:16.924Z"
+  },
+  "category": "reference",
+  "tags": [
+    "Strings",
+    "Arrays",
+    "Fundamentals"
+  ]
+}

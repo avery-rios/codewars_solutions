@@ -1,0 +1,25 @@
+{
+  "name": "Number of trailing zeros of N!",
+  "id": "52f787eb172a8b4ae1000a34",
+  "slug": "number-of-trailing-zeros-of-n",
+  "url": "https://www.codewars.com/kata/52f787eb172a8b4ae1000a34",
+  "created_by": {
+    "username": "Ivan Diachenko",
+    "url": "https://www.codewars.com/users/Ivan%20Diachenko"
+  },
+  "created_at": "2014-02-09T13:51:50.942Z",
+  "approve": {
+    "rank": "Kyu5",
+    "approver": {
+      "username": "jhoffner",
+      "url": "https://www.codewars.com/users/jhoffner"
+    },
+    "approved_at": "2014-03-27T19:53:19.646Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Algorithms",
+    "Logic",
+    "Mathematics"
+  ]
+}

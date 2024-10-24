@@ -1,0 +1,25 @@
+{
+  "name": "Disemvowel Trolls",
+  "id": "52fba66badcd10859f00097e",
+  "slug": "disemvowel-trolls",
+  "url": "https://www.codewars.com/kata/52fba66badcd10859f00097e",
+  "created_by": {
+    "username": "osuushi",
+    "url": "https://www.codewars.com/users/osuushi"
+  },
+  "created_at": "2014-02-12T16:54:28.937Z",
+  "approve": {
+    "rank": "Kyu7",
+    "approver": {
+      "username": "jhoffner",
+      "url": "https://www.codewars.com/users/jhoffner"
+    },
+    "approved_at": "2014-02-17T22:17:12.516Z"
+  },
+  "category": "reference",
+  "tags": [
+    "Strings",
+    "Regular Expressions",
+    "Fundamentals"
+  ]
+}
