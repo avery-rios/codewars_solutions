@@ -1,0 +1,17 @@
+{
+  "name": "Simple Pig Latin",
+  "id": "520b9d2ad5c005041100000f",
+  "slug": "simple-pig-latin",
+  "url": "https://www.codewars.com/kata/520b9d2ad5c005041100000f",
+  "created_by": {
+    "username": "user2505876",
+    "url": "https://www.codewars.com/users/user2505876"
+  },
+  "created_at": "2013-08-14T15:07:22.841Z",
+  "approve": null,
+  "category": "algorithms",
+  "tags": [
+    "Regular Expressions",
+    "Algorithms"
+  ]
+}

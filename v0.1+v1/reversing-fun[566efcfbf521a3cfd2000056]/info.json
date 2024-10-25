@@ -1,0 +1,25 @@
+{
+  "name": "Reversing Fun",
+  "id": "566efcfbf521a3cfd2000056",
+  "slug": "reversing-fun",
+  "url": "https://www.codewars.com/kata/566efcfbf521a3cfd2000056",
+  "created_by": {
+    "username": "Shivo",
+    "url": "https://www.codewars.com/users/Shivo"
+  },
+  "created_at": "2015-12-14T17:57:10.907Z",
+  "approve": {
+    "rank": "Kyu7",
+    "approver": {
+      "username": "GiacomoSorbi",
+      "url": "https://www.codewars.com/users/GiacomoSorbi"
+    },
+    "approved_at": "2015-12-19T23:41:51.051Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Strings",
+    "Fundamentals",
+    "Algorithms"
+  ]
+}
