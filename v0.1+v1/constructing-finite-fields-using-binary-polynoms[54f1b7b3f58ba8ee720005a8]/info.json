@@ -1,0 +1,27 @@
+{
+  "name": "Constructing finite fields using binary polynoms",
+  "id": "54f1b7b3f58ba8ee720005a8",
+  "slug": "constructing-finite-fields-using-binary-polynoms",
+  "url": "https://www.codewars.com/kata/54f1b7b3f58ba8ee720005a8",
+  "created_by": {
+    "username": "muesli4",
+    "url": "https://www.codewars.com/users/muesli4"
+  },
+  "created_at": "2015-02-28T12:51:15.878Z",
+  "approve": {
+    "rank": "Kyu3",
+    "approver": {
+      "username": "lolisa",
+      "url": "https://www.codewars.com/users/lolisa"
+    },
+    "approved_at": "2018-09-05T22:10:53.533Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Mathematics",
+    "Data Structures",
+    "Algebra",
+    "Strings",
+    "Algorithms"
+  ]
+}

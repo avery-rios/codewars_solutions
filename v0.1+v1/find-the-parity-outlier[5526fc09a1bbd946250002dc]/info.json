@@ -1,0 +1,23 @@
+{
+  "name": "Find The Parity Outlier",
+  "id": "5526fc09a1bbd946250002dc",
+  "slug": "find-the-parity-outlier",
+  "url": "https://www.codewars.com/kata/5526fc09a1bbd946250002dc",
+  "created_by": {
+    "username": "obnounce",
+    "url": "https://www.codewars.com/users/obnounce"
+  },
+  "created_at": "2015-04-09T22:24:09.437Z",
+  "approve": {
+    "rank": "Kyu6",
+    "approver": {
+      "username": "Unnamed",
+      "url": "https://www.codewars.com/users/Unnamed"
+    },
+    "approved_at": "2015-11-20T19:29:35.979Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Algorithms"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Create Phone Number",
+  "id": "525f50e3b73515a6db000b83",
+  "slug": "create-phone-number",
+  "url": "https://www.codewars.com/kata/525f50e3b73515a6db000b83",
+  "created_by": {
+    "username": "xDranik",
+    "url": "https://www.codewars.com/users/xDranik"
+  },
+  "created_at": "2013-10-17T02:52:21.801Z",
+  "approve": null,
+  "category": "algorithms",
+  "tags": [
+    "Arrays",
+    "Strings",
+    "Regular Expressions",
+    "Algorithms"
+  ]
+}
