@@ -1,0 +1,13 @@
+[package]
+name = "can-you-control-the-lights"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.66"
+
+[dev-dependencies]
+num = { version = "0.4.0", features = ["rand"] }
+rand = "0.8.5"
+
+[features]
+local = []
+default = ["local"]

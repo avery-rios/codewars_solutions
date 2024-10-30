@@ -1,0 +1,23 @@
+{
+  "name": "Does my number look big in this?",
+  "id": "5287e858c6b5a9678200083c",
+  "slug": "does-my-number-look-big-in-this",
+  "url": "https://www.codewars.com/kata/5287e858c6b5a9678200083c",
+  "created_by": {
+    "username": "JulianNicholls",
+    "url": "https://www.codewars.com/users/JulianNicholls"
+  },
+  "created_at": "2013-11-16T22:17:05.673Z",
+  "approve": {
+    "rank": "Kyu6",
+    "approver": {
+      "username": "jhoffner",
+      "url": "https://www.codewars.com/users/jhoffner"
+    },
+    "approved_at": "2013-11-19T04:58:20.601Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Algorithms"
+  ]
+}

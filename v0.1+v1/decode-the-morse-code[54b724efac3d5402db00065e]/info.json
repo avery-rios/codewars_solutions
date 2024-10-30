@@ -1,0 +1,23 @@
+{
+  "name": "Decode the Morse code ",
+  "id": "54b724efac3d5402db00065e",
+  "slug": "decode-the-morse-code",
+  "url": "https://www.codewars.com/kata/54b724efac3d5402db00065e",
+  "created_by": {
+    "username": "jolaf",
+    "url": "https://www.codewars.com/users/jolaf"
+  },
+  "created_at": "2015-01-15T02:40:31.646Z",
+  "approve": {
+    "rank": "Kyu6",
+    "approver": {
+      "username": "jhoffner",
+      "url": "https://www.codewars.com/users/jhoffner"
+    },
+    "approved_at": "2015-02-02T19:12:12.498Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Algorithms"
+  ]
+}

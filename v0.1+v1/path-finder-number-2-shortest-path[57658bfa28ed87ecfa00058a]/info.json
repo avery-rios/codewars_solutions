@@ -1,0 +1,23 @@
+{
+  "name": "Path Finder #2: shortest path",
+  "id": "57658bfa28ed87ecfa00058a",
+  "slug": "path-finder-number-2-shortest-path",
+  "url": "https://www.codewars.com/kata/57658bfa28ed87ecfa00058a",
+  "created_by": {
+    "username": "evk",
+    "url": "https://www.codewars.com/users/evk"
+  },
+  "created_at": "2016-06-18T19:55:32.293Z",
+  "approve": {
+    "rank": "Kyu4",
+    "approver": {
+      "username": "dcieslak",
+      "url": "https://www.codewars.com/users/dcieslak"
+    },
+    "approved_at": "2017-10-31T03:54:06.725Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Algorithms"
+  ]
+}
