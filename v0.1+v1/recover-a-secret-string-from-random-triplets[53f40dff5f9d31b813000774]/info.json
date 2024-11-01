@@ -1,0 +1,23 @@
+{
+  "name": "Recover a secret string from random triplets",
+  "id": "53f40dff5f9d31b813000774",
+  "slug": "recover-a-secret-string-from-random-triplets",
+  "url": "https://www.codewars.com/kata/53f40dff5f9d31b813000774",
+  "created_by": {
+    "username": "zpconn",
+    "url": "https://www.codewars.com/users/zpconn"
+  },
+  "created_at": "2014-08-25T23:49:48.757Z",
+  "approve": {
+    "rank": "Kyu4",
+    "approver": {
+      "username": "xcthulhu",
+      "url": "https://www.codewars.com/users/xcthulhu"
+    },
+    "approved_at": "2014-09-20T23:17:28.975Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Algorithms"
+  ]
+}

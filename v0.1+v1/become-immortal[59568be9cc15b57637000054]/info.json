@@ -1,0 +1,26 @@
+{
+  "name": "BECOME IMMORTAL",
+  "id": "59568be9cc15b57637000054",
+  "slug": "become-immortal",
+  "url": "https://www.codewars.com/kata/59568be9cc15b57637000054",
+  "created_by": {
+    "username": "Voile",
+    "url": "https://www.codewars.com/users/Voile"
+  },
+  "created_at": "2017-07-01T08:20:11.266Z",
+  "approve": {
+    "rank": "Kyu1",
+    "approver": {
+      "username": "ice1000",
+      "url": "https://www.codewars.com/users/ice1000"
+    },
+    "approved_at": "2017-10-25T12:18:20.740Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Puzzles",
+    "Dynamic Programming",
+    "Performance",
+    "Algorithms"
+  ]
+}
