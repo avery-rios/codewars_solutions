@@ -1,0 +1,26 @@
+{
+  "name": "Lambda Calculus: Lists as folds II",
+  "id": "60b76ecdbec5c4003163f869",
+  "slug": "lambda-calculus-lists-as-folds-ii",
+  "url": "https://www.codewars.com/kata/60b76ecdbec5c4003163f869",
+  "created_by": {
+    "username": "JohanWiltink",
+    "url": "https://www.codewars.com/users/JohanWiltink"
+  },
+  "created_at": "2021-06-05T21:44:46.198Z",
+  "approve": {
+    "rank": "Kyu1",
+    "approver": {
+      "username": "davidmaamoaix",
+      "url": "https://www.codewars.com/users/davidmaamoaix"
+    },
+    "approved_at": "2022-06-22T03:55:32.170Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Algorithms",
+    "Lists",
+    "Data Structures",
+    "Functional Programming"
+  ]
+}

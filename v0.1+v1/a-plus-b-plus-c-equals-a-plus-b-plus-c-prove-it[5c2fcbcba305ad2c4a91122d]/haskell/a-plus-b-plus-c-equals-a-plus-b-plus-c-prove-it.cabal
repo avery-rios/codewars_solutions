@@ -1,0 +1,26 @@
+cabal-version: 3.0
+name:          a-plus-b-plus-c-equals-a-plus-b-plus-c-prove-it
+version:       0.1.0.0
+build-type:    Simple
+
+library
+    exposed-modules:
+        Kata.AdditionAssoc
+        Kata.AdditionAssoc.Definitions
+
+    hs-source-dirs:   src
+    default-language: Haskell2010
+    ghc-options:      -Wall
+    build-depends:    base >=4.18.2 && <4.19
+
+test-suite sample
+    type:             exitcode-stdio-1.0
+    main-is:          Main.hs
+    hs-source-dirs:   test/sample
+    other-modules:    Kata.AdditionAssoc.TestSpec
+    default-language: Haskell2010
+    ghc-options:      -Wall
+    build-depends:
+        base,
+        hspec >=2.11 && <2.12,
+        a-plus-b-plus-c-equals-a-plus-b-plus-c-prove-it

@@ -1,0 +1,3 @@
+_Note to translators: This Kata is **NOT** accepting any translations to Coq / Idris / Agda / Lean due to the huge difference in difficulty between Haskell and those languages mentioned. Any translations violating this rule will be rejected without further reason._
+
+Successor of [A+B=B+A](https://www.codewars.com/kata/a-plus-b-equals-b-plus-a-prove-it) and [A+(B+C)=(A+B)+C](https://www.codewars.com/kata/a-plus-b-plus-c-equals-a-plus-b-plus-c-prove-it) (please do these two first, the solutions are required doing this Kata), but now you'll need to prove A\*B=B\*A. There'll be a lot of boilerplate code.
