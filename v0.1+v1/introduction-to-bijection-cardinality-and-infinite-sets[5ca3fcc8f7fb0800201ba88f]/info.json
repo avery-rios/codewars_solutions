@@ -1,0 +1,25 @@
+{
+  "name": "Introduction to bijection, cardinality, and infinite sets",
+  "id": "5ca3fcc8f7fb0800201ba88f",
+  "slug": "introduction-to-bijection-cardinality-and-infinite-sets",
+  "url": "https://www.codewars.com/kata/5ca3fcc8f7fb0800201ba88f",
+  "created_by": {
+    "username": "solitude",
+    "url": "https://www.codewars.com/users/solitude"
+  },
+  "created_at": "2019-04-03T00:33:15.530Z",
+  "approve": {
+    "rank": "Kyu4",
+    "approver": {
+      "username": "monadius",
+      "url": "https://www.codewars.com/users/monadius"
+    },
+    "approved_at": "2020-02-07T02:20:18.036Z"
+  },
+  "category": "reference",
+  "tags": [
+    "Theorem Proving",
+    "Set Theory",
+    "Fundamentals"
+  ]
+}
