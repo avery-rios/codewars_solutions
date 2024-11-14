@@ -1,0 +1,29 @@
+{
+  "name": "Coloured Lattice Points Forming Coloured Triangles",
+  "id": "57cebf1472f98327760003cd",
+  "slug": "coloured-lattice-points-forming-coloured-triangles",
+  "url": "https://www.codewars.com/kata/57cebf1472f98327760003cd",
+  "created_by": {
+    "username": "raulbc777",
+    "url": "https://www.codewars.com/users/raulbc777"
+  },
+  "created_at": "2016-09-06T17:21:23.293Z",
+  "approve": {
+    "rank": "Kyu4",
+    "approver": {
+      "username": "Voile",
+      "url": "https://www.codewars.com/users/Voile"
+    },
+    "approved_at": "2017-06-01T10:20:57.095Z"
+  },
+  "category": "reference",
+  "tags": [
+    "Fundamentals",
+    "Data Structures",
+    "Algorithms",
+    "Geometry",
+    "Mathematics",
+    "Logic",
+    "Strings"
+  ]
+}

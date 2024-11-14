@@ -1,0 +1,25 @@
+{
+  "name": "Lensmaker",
+  "id": "54258ffb430ca2e4b5000239",
+  "slug": "lensmaker",
+  "url": "https://www.codewars.com/kata/54258ffb430ca2e4b5000239",
+  "created_by": {
+    "username": "tel",
+    "url": "https://www.codewars.com/users/tel"
+  },
+  "created_at": "2014-09-26T16:10:35.842Z",
+  "approve": {
+    "rank": "Kyu1",
+    "approver": {
+      "username": "ice1000",
+      "url": "https://www.codewars.com/users/ice1000"
+    },
+    "approved_at": "2017-07-11T15:49:48.629Z"
+  },
+  "category": "games",
+  "tags": [
+    "Fundamentals",
+    "Functional Programming",
+    "Puzzles"
+  ]
+}

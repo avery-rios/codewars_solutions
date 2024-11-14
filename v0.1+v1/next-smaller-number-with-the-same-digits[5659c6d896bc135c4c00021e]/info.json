@@ -1,0 +1,25 @@
+{
+  "name": "Next smaller number with the same digits",
+  "id": "5659c6d896bc135c4c00021e",
+  "slug": "next-smaller-number-with-the-same-digits",
+  "url": "https://www.codewars.com/kata/5659c6d896bc135c4c00021e",
+  "created_by": {
+    "username": "LesRamer",
+    "url": "https://www.codewars.com/users/LesRamer"
+  },
+  "created_at": "2015-12-03T23:01:23.341Z",
+  "approve": {
+    "rank": "Kyu4",
+    "approver": {
+      "username": "user5036852",
+      "url": "https://www.codewars.com/users/user5036852"
+    },
+    "approved_at": "2016-11-19T18:54:51.456Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Strings",
+    "Mathematics",
+    "Algorithms"
+  ]
+}
