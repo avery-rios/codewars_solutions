@@ -1,0 +1,23 @@
+{
+  "name": "Running around in circles, optimizing the Double Negation",
+  "id": "5cf73c3c97d5f8001b935546",
+  "slug": "running-around-in-circles-optimizing-the-double-negation",
+  "url": "https://www.codewars.com/kata/5cf73c3c97d5f8001b935546",
+  "created_by": {
+    "username": "Voile",
+    "url": "https://www.codewars.com/users/Voile"
+  },
+  "created_at": "2019-06-05T03:51:30.292Z",
+  "approve": {
+    "rank": "Kyu5",
+    "approver": {
+      "username": "monadius",
+      "url": "https://www.codewars.com/users/monadius"
+    },
+    "approved_at": "2020-02-07T02:24:01.636Z"
+  },
+  "category": "reference",
+  "tags": [
+    "Fundamentals"
+  ]
+}

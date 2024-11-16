@@ -1,0 +1,24 @@
+{
+  "name": "Nat in the mirror, Full version",
+  "id": "5ce34289f999ed0029a91e30",
+  "slug": "nat-in-the-mirror-full-version",
+  "url": "https://www.codewars.com/kata/5ce34289f999ed0029a91e30",
+  "created_by": {
+    "username": "solitude",
+    "url": "https://www.codewars.com/users/solitude"
+  },
+  "created_at": "2019-05-21T00:14:43.164Z",
+  "approve": {
+    "rank": "Kyu2",
+    "approver": {
+      "username": "donaldsebleung",
+      "url": "https://www.codewars.com/users/donaldsebleung"
+    },
+    "approved_at": "2019-07-10T16:15:26.253Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Theorem Proving",
+    "Algorithms"
+  ]
+}

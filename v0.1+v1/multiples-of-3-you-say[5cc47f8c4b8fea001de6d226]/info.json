@@ -1,0 +1,24 @@
+{
+  "name": "Multiples of 3, you say?",
+  "id": "5cc47f8c4b8fea001de6d226",
+  "slug": "multiples-of-3-you-say",
+  "url": "https://www.codewars.com/kata/5cc47f8c4b8fea001de6d226",
+  "created_by": {
+    "username": "donaldsebleung",
+    "url": "https://www.codewars.com/users/donaldsebleung"
+  },
+  "created_at": "2019-04-27T16:53:31.883Z",
+  "approve": {
+    "rank": "Kyu5",
+    "approver": {
+      "username": "monadius",
+      "url": "https://www.codewars.com/users/monadius"
+    },
+    "approved_at": "2020-02-05T06:08:16.878Z"
+  },
+  "category": "games",
+  "tags": [
+    "Theorem Proving",
+    "Puzzles"
+  ]
+}

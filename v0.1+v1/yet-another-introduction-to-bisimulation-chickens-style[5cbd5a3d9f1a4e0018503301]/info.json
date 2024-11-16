@@ -1,0 +1,24 @@
+{
+  "name": "Yet another introduction to bisimulation, Chicken's style",
+  "id": "5cbd5a3d9f1a4e0018503301",
+  "slug": "yet-another-introduction-to-bisimulation-chickens-style",
+  "url": "https://www.codewars.com/kata/5cbd5a3d9f1a4e0018503301",
+  "created_by": {
+    "username": "solitude",
+    "url": "https://www.codewars.com/users/solitude"
+  },
+  "created_at": "2019-04-22T06:12:40.831Z",
+  "approve": {
+    "rank": "Kyu5",
+    "approver": {
+      "username": "monadius",
+      "url": "https://www.codewars.com/users/monadius"
+    },
+    "approved_at": "2020-02-07T02:21:51.554Z"
+  },
+  "category": "algorithms",
+  "tags": [
+    "Theorem Proving",
+    "Algorithms"
+  ]
+}
