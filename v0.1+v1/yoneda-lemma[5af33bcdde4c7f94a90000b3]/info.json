@@ -1,0 +1,24 @@
+{
+  "name": "Yoneda lemma",
+  "id": "5af33bcdde4c7f94a90000b3",
+  "slug": "yoneda-lemma",
+  "url": "https://www.codewars.com/kata/5af33bcdde4c7f94a90000b3",
+  "created_by": {
+    "username": "pier-bezuhoff",
+    "url": "https://www.codewars.com/users/pier-bezuhoff"
+  },
+  "created_at": "2018-05-09T20:34:18.159Z",
+  "approve": {
+    "rank": "Kyu2",
+    "approver": {
+      "username": "lolisa",
+      "url": "https://www.codewars.com/users/lolisa"
+    },
+    "approved_at": "2018-05-31T23:20:59.452Z"
+  },
+  "category": "reference",
+  "tags": [
+    "Mathematics",
+    "Fundamentals"
+  ]
+}
