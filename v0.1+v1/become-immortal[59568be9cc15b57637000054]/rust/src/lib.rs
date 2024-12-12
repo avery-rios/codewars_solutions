@@ -85,7 +85,7 @@ fn xor_sum_u(m: u64, len_m: u64, n: u64, len_n: u64, l: u64, t: NonZeroU64) -> u
 
             sub(
                 high_sum.0 + mid_sum.0 + low_sum,
-                mid_count * mul_exp2(ModVal(l % t), lb_low_count, t).0,
+                (mid_count * mul_exp2(ModVal(l % t), lb_low_count, t).0) % t,
                 t,
             )
         };

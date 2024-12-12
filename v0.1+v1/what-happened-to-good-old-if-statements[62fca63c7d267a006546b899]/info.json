@@ -1,0 +1,23 @@
+{
+  "name": "What happened to good old if-statements?",
+  "id": "62fca63c7d267a006546b899",
+  "slug": "what-happened-to-good-old-if-statements",
+  "url": "https://www.codewars.com/kata/62fca63c7d267a006546b899",
+  "created_by": {
+    "username": "mrum",
+    "url": "https://www.codewars.com/users/mrum"
+  },
+  "created_at": "2022-08-17T09:46:18.073Z",
+  "approve": {
+    "rank": "Kyu2",
+    "approver": {
+      "username": "Kacarott",
+      "url": "https://www.codewars.com/users/Kacarott"
+    },
+    "approved_at": "2023-02-02T15:19:14.674Z"
+  },
+  "category": "games",
+  "tags": [
+    "Functional Programming"
+  ]
+}

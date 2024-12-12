@@ -1,0 +1,24 @@
+{
+  "name": "The most untyped typed language?",
+  "id": "5e924bda0a365a0033b12782",
+  "slug": "the-most-untyped-typed-language",
+  "url": "https://www.codewars.com/kata/5e924bda0a365a0033b12782",
+  "created_by": {
+    "username": "yihongz",
+    "url": "https://www.codewars.com/users/yihongz"
+  },
+  "created_at": "2020-04-12T02:19:29.624Z",
+  "approve": {
+    "rank": "Kyu2",
+    "approver": {
+      "username": "JohanWiltink",
+      "url": "https://www.codewars.com/users/JohanWiltink"
+    },
+    "approved_at": "2021-02-17T19:53:30.152Z"
+  },
+  "category": "games",
+  "tags": [
+    "Functional Programming",
+    "Puzzles"
+  ]
+}
